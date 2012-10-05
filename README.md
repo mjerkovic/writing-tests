@@ -1,6 +1,6 @@
 Classes to be used for practicing writing unit tests.
 
-Start by writing a unit test for Rational.java
+1. Start by writing a unit test for Rational.java
 
 Rational Numbers
 ================
@@ -39,3 +39,6 @@ Equality
 ========
 
 n1/d1 = n2/d2 if and only if (iff)  n1d2 = d1n2
+
+
+2. Write tests for the classes in the com.aconex.tutorial.tests.bank package
