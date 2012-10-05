@@ -34,7 +34,7 @@ public class Rational {
         return new Rational(numer * other.denom, denom * other.numer);
     }
 
-    public boolean areEqual(Rational other) {
+    public boolean isEqualTo(Rational other) {
         return numer * other.denom == denom * other.numer;
     }
 
