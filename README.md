@@ -42,3 +42,6 @@ n1/d1 = n2/d2 if and only if (iff)  n1d2 = d1n2
 
 
 2. Write tests for the classes in the com.aconex.tutorial.tests.bank package
+
+3. Write tests for the classes in the com.aconex.tutorial.tests.crm package
+    - Feel free to refactor any classes to make testing easier.
