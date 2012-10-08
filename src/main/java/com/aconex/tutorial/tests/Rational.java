@@ -23,7 +23,7 @@ public class Rational {
     }
 
     public Rational subtract(Rational other) {
-        return new Rational(numer * other.denom + other.numer * denom, denom * other.denom);
+        return new Rational(numer * other.denom - other.numer * denom, denom * other.denom);
     }
 
     public Rational multiply(Rational other) {
